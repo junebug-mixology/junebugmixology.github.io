@@ -1,0 +1,99 @@
+body {
+	background-color: rgb(253,249,255);
+    padding-top: 50px; 
+    color: rgb(117, 116, 116);
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+}
+
+.navbar-inverse {
+	background-color: rgb(253,249,255);
+	border: transparent;
+	}
+
+.navbar-inverse .navbar-brand {
+	color: rgb(243, 124, 122);
+	font-size: 20px;
+}
+
+.navbar-inverse .navbar-brand:hover,
+.navbar-inverse .navbar-brand:focus {
+	color: rgb(244, 168, 143);
+	background-color: transparent;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+	color: rgb(243, 124, 122);
+	}
+	
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus {
+	color: rgb(244, 168, 143);
+	background-color: transparent;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover,
+.navbar-inverse .navbar-nav > li > a:focus {
+	color: rgb(244, 168, 143);
+	background-color: transparent;
+	}
+	
+.navbar-inverse .navbar-nav > .open > a,
+.navbar-inverse .navbar-nav > .open > a:hover,
+.navbar-inverse .navbar-nav > .open > a:focus {
+	background-color: transparent;
+	color: rgb(244, 168, 143);
+	} 
+
+.business-header {
+    height: 400px;
+    background: url('../img/bgimage.png') center center no-repeat scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.img-center {
+    margin: 0 auto;
+}
+
+h2 {
+	color: rgb(243, 124, 122);
+	font-family: 'Cookie', sans-serif;
+	font-weight: 400;
+	font-size: 50px;
+}
+
+h3 {
+	color: rgb(243, 124, 122);
+	font-family: 'Cookie', sans-serif;
+	font-weight: 400;
+	font-size: 35px;
+}
+
+.glyphicon {
+	color: rgb(190, 136, 172);
+	font-size: 15px;
+} 
+
+a {
+	color: rgb(190, 136, 172);
+}
+
+a:visited {
+	color: rgb(190, 136, 172);
+}
+
+a:hover {
+	color: rgb(82, 58, 74);
+}
+
+ul {
+	list-style-type: none;
+}	
+
+footer {
+    margin: 50px 0;
+}
